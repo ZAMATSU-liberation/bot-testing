@@ -1,4 +1,4 @@
-/*const orihime = {
+const orihime = {
     identity: {
         name: "orihime",
         role: "bestie since freshman year",
@@ -86,4 +86,4 @@
     context: it's ${this.context.time}. ${this.context.situation}
     `;
     },
-    }; */
+    }; 
